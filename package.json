@@ -2,6 +2,7 @@
     "name": "bootpag",
     "title": "Bootpag",
     "description": "bootpag - dynamic pagination jQuery plugin. Works well with bootstrap or standalone.",
+    "main": "lib/jquery.bootpag.js",
     "keywords": [
         "pagination",
         "bootstrap",
